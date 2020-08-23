@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <algorithm>
-#include "lru.h"
+#include "LRU.h"
 
 class ARC{
     enum Adjustment{
